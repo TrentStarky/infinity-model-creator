@@ -1,0 +1,800 @@
+{
+  "units": [
+    {
+      "id": 1,
+      "name": "Team Sirius",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 1,
+          "weapon": "Boarding Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Team_Sirius.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Sirius Bot",
+      "unitType": "remote",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 3,
+          "weapon": "Heavy Riotstopper",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Sirius-Bot.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kappa",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 4,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Kappa-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 5,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Kappa-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 6,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Kappa-3.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 14,
+          "weapon": "MediKit",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Kappa-4.jpg",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 23,
+          "weapon": "HMG",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Kappa-5.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 24,
+          "weapon": "MULTI Sniper Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Kappa-6.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 25,
+          "weapon": "Hacker",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Kappa-7.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Delta",
+      "unitType": "mediumInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 7,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Delta-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 16,
+          "weapon": "Doctor",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Delta-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Epsilon",
+      "unitType": "mediumInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 8,
+          "weapon": "MULTI Sniper Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Epsilon-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Gangbuster",
+      "unitType": "skirmisher",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 9,
+          "weapon": "Boarding Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Gangbuster-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 59,
+          "weapon": "Hacker",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Gangbuster-2.webp",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Gamma",
+      "unitType": "heavyInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 10,
+          "weapon": "Feuerbach",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Gamma-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Betatrooper",
+      "unitType": "heavyInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 11,
+          "weapon": "MULTI Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Betatrooper-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 50,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Betatrooper-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 51,
+          "weapon": "Doctor",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Betatrooper-3.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 52,
+          "weapon": "Hacker",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Betatrooper-4.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Omega",
+      "unitType": "heavyInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 12,
+          "weapon": "HMG",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Omega-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Cuervo Goldstein",
+      "unitType": "mediumInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 13,
+          "weapon": "Boarding Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Cuervo-Goldstein-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Alpha",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 15,
+          "weapon": "Light Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Alpha_1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Yudbot-B",
+      "unitType": "remote",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 17,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Yudbot-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        },
+        {
+          "id": 20,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Yudbot-2.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Lambda",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 18,
+          "weapon": "Engineer",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Lambda-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        },
+        {
+          "id": 19,
+          "weapon": "Doctor",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Lambda-2.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Yudbot",
+      "unitType": "remote",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 17,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Yudbot-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        },
+        {
+          "id": 20,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Yudbot-2.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Copperbot",
+      "unitType": "remote",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 21,
+          "weapon": "Missile Launcher",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Copperbot-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        },
+        {
+          "id": 22,
+          "weapon": "HMG",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Copperbot-2.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Crusher",
+      "unitType": "mediumInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 26,
+          "weapon": "MULTI Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Crusher-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 27,
+          "weapon": "Boarding Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Crusher-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 39,
+          "weapon": "Submachine Gun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Crusher-3.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Bronze",
+      "unitType": "heavyInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 28,
+          "weapon": "MULTI Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Bronze-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 43,
+          "weapon": "Red Fury",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Bronze-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Bluecoat",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 29,
+          "weapon": "Submachine Gun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Bluecoat-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 58,
+          "weapon": "Adhesive Launcher",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Bluecoat-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Saladin",
+      "unitType": "mediumInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 31,
+          "weapon": "Lieutenant",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Saladin-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Casanova",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 32,
+          "weapon": "Nanopulser",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Casanova-1.webp",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Lawkeeper",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 30,
+          "weapon": "MULTI Pistol",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Lawkeeper-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Zeta",
+      "unitType": "tag",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 33,
+          "weapon": "Hyper-Rapid Magnetic Cannon",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Zeta-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        },
+        {
+          "id": 57,
+          "weapon": "Hyper-Rapid Magnetic Cannon",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Zeta-2.png",
+          "collection": null,
+          "limitedEdition": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Razor",
+      "unitType": "skirmisher",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 34,
+          "weapon": "Boarding Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Razor-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Lynx",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 35,
+          "weapon": "MULTI Sniper Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Lynx-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Psi-COp",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 36,
+          "weapon": "Hacker",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Psi-COp-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        },
+        {
+          "id": 49,
+          "weapon": "Multi Marksman Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Psi-COp-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Katherine Cho",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 37,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Katherine-Cho-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Hippolyta",
+      "unitType": "warband",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 38,
+          "weapon": "Breaker Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Hippolyta-1.png",
+          "collection": "codeOne",
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Nyoka",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 40,
+          "weapon": "MULTI Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Nyoka-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 41,
+          "weapon": "Heavy Rocket Launcher",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Nyoka-2",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 42,
+          "weapon": "Red Fury",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Nyoka-3.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Raptor",
+      "unitType": "heavyInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 44,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Raptor-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 45,
+          "weapon": "MULTI Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Raptor-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Devabot",
+      "unitType": "remote",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 46,
+          "weapon": "Heavy Flamethrower",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Devabot-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 47,
+          "weapon": "Heavy Flamethrower",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Devabot-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Cyberghost",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 48,
+          "weapon": "Hacker",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Cyberghost-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Tinbot",
+      "unitType": "equipment",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 53,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Tinbot-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Fuzzbot",
+      "unitType": "remote",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 54,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Fuzzbot-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 55,
+          "weapon": "EVO Hacker",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Fuzzbot-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Raveneye Officer",
+      "unitType": "lightInfantry",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 56,
+          "weapon": "Submachine Gun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Raveneye-Officer-1.png",
+          "collection": null,
+          "limitedEdition": true
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "MadTrap",
+      "unitType": "equipment",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 60,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/MadTrap-1.webp",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 61,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/MadTrap-2.webp",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Roadbot",
+      "unitType": "remote",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 62,
+          "weapon": "High Mobility",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Roadbot-2.webp",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 63,
+          "weapon": "Combat Form",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Roadbot-1.webp",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Sidebot",
+      "unitType": "remote",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 64,
+          "weapon": "Heavy Riotstopper",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Sidebot-1.webp",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Sarko",
+      "unitType": "skirmisher",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 65,
+          "weapon": "Submachine Gun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Sarko-1.webp",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Sekudroid",
+      "unitType": "remote",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 66,
+          "weapon": "Adhesive Launcher",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Sekudroid-1.webp",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "WildParrot",
+      "unitType": "equipment",
+      "faction": "o12",
+      "models": [
+        {
+          "id": 67,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/WildParrot-1.webp",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    }
+  ]
+}
