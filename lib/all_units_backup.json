@@ -795,6 +795,877 @@
           "limitedEdition": null
         }
       ]
+    },
+    {
+      "id": 42,
+      "name": "Kamael",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 68,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kamael-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 69,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kamael-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 70,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kamael-3.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 91,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kamael-4.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 92,
+          "weapon": "Sniper Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kamael-5.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 93,
+          "weapon": "Light GL",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kamael-6.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 94,
+          "weapon": "Hacker",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kamael-7.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Clipsos",
+      "unitType": "skirmisher",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 71,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Clipsos-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 101,
+          "weapon": "Sniper",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Clipsos-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 136,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Clipsos-3.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Ectros",
+      "unitType": "heavyInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 72,
+          "weapon": "Viral Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Ectros-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 97,
+          "weapon": "HMG",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Ectros-2.jpg",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Sakiel",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 73,
+          "weapon": "Viral Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Sakiel-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 87,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Sakiel-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Diplomatic Delegate",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 74,
+          "weapon": "Flash Pulse",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Diplomatic-Delegate-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Gao-Rael",
+      "unitType": "mediumInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 75,
+          "weapon": "Sniper Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Gao-Rael-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 81,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Gao-Rael-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Hatail Spec-Ops",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 76,
+          "weapon": "Viral Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Hatail-Spec-Ops-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 141,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Hatail-Spec-Ops-2.png",
+          "collection": null,
+          "limitedEdition": true
+        },
+        {
+          "id": 146,
+          "weapon": "Pistol",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Hatail-Spec-Ops-3.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Makaul",
+      "unitType": "warband",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 77,
+          "weapon": "Viral CCW",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Makaul-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 78,
+          "weapon": "Heavy Flamethrower",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Makaul-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 79,
+          "weapon": "Heavy Flamethrower",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Makaul-3.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 80,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Makaul-4.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Gao-Tarsos",
+      "unitType": "mediumInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 82,
+          "weapon": "Combi",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Gao-Tarsos-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 95,
+          "weapon": "HMG",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Gao-Tarsos-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Chaksa Auxiliar",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 83,
+          "weapon": "Heavy Flamethrower",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Auxiliar-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 84,
+          "weapon": "Heavy Flamethrower",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Auxiliar-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 85,
+          "weapon": "HMG",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Auxiliar-3.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 86,
+          "weapon": "Heavy Rocket Launcher",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Auxiliar-4.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Kumotail",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 88,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kumotail-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Chaksa Servant",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 89,
+          "weapon": "Para CC",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Servant-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 90,
+          "weapon": "Para CC",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Servant-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Aelis Keesan",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 96,
+          "weapon": "Pistol",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Aelis-Keesan-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Gorgos",
+      "unitType": "tag",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 98,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Gorgos-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Chaksa Peripheral",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 99,
+          "weapon": "Light Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Peripheral-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 108,
+          "weapon": "Heavy Flamethrower",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Peripheral-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 109,
+          "weapon": "Heavy Flamethrower",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Peripheral-3.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Neema Saatar",
+      "unitType": "heavyInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 100,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Neema-Saatar-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 130,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Neema-Saatar-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Nikoul",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 102,
+          "weapon": "Viral Sniper",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Nikoul-1.webp",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Kotail",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 103,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kotail-1.webp",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 104,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kotail-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Rasail",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 105,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Rasail-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 106,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Rasail-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Igao",
+      "unitType": "skirmisher",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 110,
+          "weapon": "CCW",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Igao-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 111,
+          "weapon": "Boarding Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Igao-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Kaeltar",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 112,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kaeltar-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 113,
+          "weapon": "Light Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kaeltar-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "SymbioBomb",
+      "unitType": "equipment",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 114,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/SymbioBomb-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 115,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/SymbioBomb-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "SymbioMate",
+      "unitType": "equipment",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 116,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/SymbioMate-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 117,
+          "weapon": "None",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/SymbioMate-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Kosuil",
+      "unitType": "mediumInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 118,
+          "weapon": "K1 Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kosuil-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 122,
+          "weapon": "Boarding Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kosuil-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Kerail",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 119,
+          "weapon": "Light Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kerail-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Surda Symbiobeast",
+      "unitType": "warband",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 120,
+          "weapon": "Pulzar",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Surda-Symbiobeast-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Mutan Symbiobeast",
+      "unitType": "warband",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 121,
+          "weapon": "Pulzar",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Mutan-Symbiobeast-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Kaauri",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 123,
+          "weapon": "Submachine Gun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kaauri-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 124,
+          "weapon": "Sniper Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kaauri-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 125,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kaauri-3.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 126,
+          "weapon": "Boarding Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kaauri-4.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Sukuel",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 127,
+          "weapon": "K1 Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Sukuel-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 129,
+          "weapon": "Missile Launcher",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Sukuel-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Gorgos Pilot",
+      "unitType": "equipment",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 128,
+          "weapon": "Pistol",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Gorgos-Pilot-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Reex",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 131,
+          "weapon": "Sniper",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Reex-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 132,
+          "weapon": "Spitfire",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Reex-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 133,
+          "weapon": "Boarding Shotgun",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Reex-3.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Draal",
+      "unitType": "skirmisher",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 134,
+          "weapon": "SMG",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Draal-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 135,
+          "weapon": "AP Marksman Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Draal-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Taagma",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 137,
+          "weapon": "Breaker Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Taagma-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 142,
+          "weapon": "Viral Sniper Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Taagma-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Kiel-Saan",
+      "unitType": "heavyInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 138,
+          "weapon": "CC Weapon",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kiel-Saan-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 144,
+          "weapon": "MK 12",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kiel-Saan-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Kriigel",
+      "unitType": "lightInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 139,
+          "weapon": "Breaker Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kriigel-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 143,
+          "weapon": "SMG",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kriigel-2.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Kiiutan",
+      "unitType": "skirmisher",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 140,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Kiiutan-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Greif Operators",
+      "unitType": "skirmisher",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 145,
+          "weapon": "2 Breaker Pistols",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Greif-Operators-1.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Chaksa Longarms",
+      "unitType": "mediumInfantry",
+      "faction": "tohaa",
+      "models": [
+        {
+          "id": 147,
+          "weapon": "Combi Rifle",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Longarms-1.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 148,
+          "weapon": "Portable Autocannon",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Longarms-2.png",
+          "collection": null,
+          "limitedEdition": null
+        },
+        {
+          "id": 149,
+          "weapon": "Missile Launcher",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Chaksa-Longarms-3.png",
+          "collection": null,
+          "limitedEdition": null
+        }
+      ]
     }
   ]
 }
