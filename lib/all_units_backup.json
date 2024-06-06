@@ -561,21 +561,21 @@
         {
           "id": 40,
           "weapon": "MULTI Rifle",
-          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Nyoka-1.png",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Nyoka-1.jpg",
           "collection": null,
           "limitedEdition": null
         },
         {
           "id": 41,
           "weapon": "Heavy Rocket Launcher",
-          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Nyoka-2",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Nyoka-2.jpg",
           "collection": null,
           "limitedEdition": null
         },
         {
           "id": 42,
           "weapon": "Red Fury",
-          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Nyoka-3.png",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/O-12/Nyoka-3.jpg",
           "collection": null,
           "limitedEdition": null
         }
@@ -1456,21 +1456,21 @@
     },
     {
       "id": 70,
-      "name": "Sukuel",
+      "name": "Sukeul",
       "unitType": "lightInfantry",
       "faction": "tohaa",
       "models": [
         {
           "id": 127,
           "weapon": "K1 Combi Rifle",
-          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Sukuel-1.png",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Sukeul-1.png",
           "collection": null,
           "limitedEdition": null
         },
         {
           "id": 129,
           "weapon": "Missile Launcher",
-          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Sukuel-2.png",
+          "imageAddress": "https://storage.cloud.google.com/infinity-miniature-images/Tohaa/Sukeul-2.png",
           "collection": null,
           "limitedEdition": null
         }
